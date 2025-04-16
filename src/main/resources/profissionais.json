@@ -1,0 +1,22 @@
+{
+  "profissionais": [
+    {
+      "id": 1,
+      "nome": "Dra. Carol Costa",
+      "cpf": "12345678",
+      "especialidade": "Cardiologia"
+    },
+    {
+      "id": 2,
+      "nome": "Dr. João Mendes",
+      "cpf": "87654321",
+      "especialidade": "Dermatologia"
+    },
+    {
+      "id": 3,
+      "nome": "Dra. Juliana Reis",
+      "cpf": "18273645",
+      "especialidade": "Cardiologia"
+    }
+  ]
+}
