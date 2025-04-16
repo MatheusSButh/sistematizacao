@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Java 17<br>- Maven<br>- Spring Boot</p>
+<p align="left">- Java 21<br>- Maven<br>- Spring Boot</p>
 
 ###
 
